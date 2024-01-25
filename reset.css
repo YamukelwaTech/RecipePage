@@ -1,7 +1,5 @@
 /*good pratice to have a reset css. 
-saves time and tears. it's a updated version of the widely used reset.css
-Its not mine but from https://www.joshwcomeau.com/css/custom-css-reset/#the-css-reset-1*/
-
+saves time and tears. it's a updated version of the widely used reset.css*/
 /* 1. Use a more-intuitive box-sizing model*/
 /*2. Remove default margin*/
 
@@ -43,3 +41,12 @@ Its not mine but from https://www.joshwcomeau.com/css/custom-css-reset/#the-css-
   #root, #__next {
     isolation: isolate;
   }
+
+
+
+ /* removes points from list */
+ ul {
+    list-style-type: none;
+  }
+
+

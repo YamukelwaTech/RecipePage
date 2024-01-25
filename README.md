@@ -12,3 +12,6 @@ Instructions:
 8. Consider adding extra features, such as a printable version of the recipe or a rating system.
 9. Ask for feedback from peers or friends to improve the design and user experience on the activity feed.
 10. Creativity is rewarded, these instructions are here to help guide you, however, if you have additional elements, sections or features you want to add please go ahead.
+
+!DOCUMENTATION!
+create a reset.css file

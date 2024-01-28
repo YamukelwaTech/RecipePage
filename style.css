@@ -33,24 +33,24 @@ html{
     justify-self: center;
 }
 
-.container .info h1{
+.info h1{
     font-size: 3rem;
     margin-bottom: .5rem;
     position: relative;
 }
 
 
-.container .info h2{
+.info h2{
     font-size: 1.5rem;
     margin-bottom: 1rem;
 }
 
-.container .info p{
+.info p{
     font-size: 1rem;
     max-width: 70%;
 }
 
-.container .info a{
+.info a{
     text-decoration: none;
     display: inline-block;
     background-color: none;
@@ -67,14 +67,23 @@ html{
 
 
 
-#Chef {
+#SacredComponents {
     width: 100%;
     height: 100vh;
-    background: black;
-    color: rgb(251, 244, 244);
+    background:linear-gradient(rgba(0, 0, 0, 0.444), rgba(0, 0, 0, 0.446)), url(images/jean-claude-attipoe-EtJiql0AdwI-unsplash.jpg) no-repeat center / cover;
+    color: white;
     /* position: fixed; */
 }
 
+.chef h1{
+    font-size: 3rem;
+    margin-bottom: .5rem;
+    /* margin: 0 auto; */
+    /* text-align: center; */
+    position: relative;
+    white-space: nowrap;
+    
+}
 
 
 
@@ -90,4 +99,12 @@ html{
     html {
         font-size: 10px;
     }
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    padding: 9px 0;
 }

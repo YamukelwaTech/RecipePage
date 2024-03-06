@@ -1,6 +1,6 @@
 # Yam's Simple Recipe Showcase 🍲
 
-Welcome to my HTML-CSS Capstone Project: Simple Recipe Page! This project reflects my passion for both coding and cooking, showcasing a straightforward and delightful recipe that anyone can enjoy.
+Welcome to my Simple Recipe Page! This project reflects my passion for both coding and cooking, showcasing a straightforward and delightful recipe that anyone can enjoy.
 
 ## Project Objective 🎯
 
